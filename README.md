@@ -5,7 +5,7 @@ School_District_Analysis
 Per your request, I have cleaned the student names and removed the 9th graders's scores from Thomas High School  Their scores will no longer be impacted.  
 
 -Updated District Summary
-![District](DIstrict%20Summary_Updated.png.png)
+![District](DIstrict%20Summary_Updated.png)
 
 
 -Updated School Summary
