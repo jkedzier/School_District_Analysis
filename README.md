@@ -12,10 +12,10 @@ Per your request, I have cleaned the student names and removed the 9th graders's
 ![School](School%20Summary_updated.png)
 
 ##High performaning schools
-![Top](top_Updated.png)
+![Top](top_updated.png)
 
 ##Low Performing Schools
-![Bottom](bottom_Updated.png)
+![Bottom](bottom_updated.png)
 
 ##Math Scores by Grade
 ![Math](math_by_grade.png)
