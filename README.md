@@ -9,7 +9,7 @@ Per your request, I have cleaned the student names and removed the 9th graders's
 
 
 ##Updated School Summary
-![School](School%20Summary_Updated.png)
+![School](School%20Summary_updated.png)
 
 ##High performaning schools
 ![Top](top_Updated.png)
