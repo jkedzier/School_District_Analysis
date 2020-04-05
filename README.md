@@ -1,34 +1,34 @@
 # School_District_Analysis
 School_District_Analysis
 
-#Updated School District Analysis
+# Updated School District Analysis
 Per your request, I have cleaned the student names and removed the 9th graders's scores from Thomas High School  Their scores will no longer be impacted.  
 
-##Updated District Summary
+## Updated District Summary
 ![District](DIstrict%20Summary_Updated.png)
 
 
-##Updated School Summary
+## Updated School Summary
 ![School](School%20Summary_updated.png)
 
-##High performaning schools
+## High performaning schools
 ![Top](top_updated.png)
 
-##Low Performing Schools
+## Low Performing Schools
 ![Bottom](bottom_updated.png)
 
-##Math Scores by Grade
+## Math Scores by Grade
 ![Math](math_by_grade.png)
 
 
-##Reading Scores by Grade
+## Reading Scores by Grade
 ![Reading](reading_by_grade.png)
 
-##Scores by School Spending
-![Spending](sore_by_spending.png)
+## Scores by School Spending
+![Spending](score_by_spending.png)
 
-##Scores by School Size
-![size](sore_by_size.png)
+## Scores by School Size
+![size](score_by_size.png)
 
-##Scores by School Type
-![Type](sore_by_type.png)
+## Scores by School Type
+![Type](score_by_type.png)
